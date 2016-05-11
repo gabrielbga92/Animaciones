@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Animar Alpha"
+        android:id="@+id/alpha"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:title="Animar Rotate"
+        android:id="@+id/rotate"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:title="Animar Translate"
+        android:id="@+id/translate"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        />
+
+
+    <item
+        android:title="Animar Property"
+        android:id="@+id/property"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        />
+
+    <item
+        android:title="Animar Scale"
+        android:id="@+id/scale"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        />
+
+
+</menu>
